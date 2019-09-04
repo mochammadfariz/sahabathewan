@@ -26,8 +26,7 @@
       <fieldset>
       <h2 class="fs-title">Personal Detail</h2>
       <h3 class="fs-subtitle"></h3>
-      <input type="text" name="fname" placeholder="Nama Depan" />
-      <input type="text" name="lname" placeholder="Nama Belakang" />
+      <input type="text" name="flname" placeholder="Nama Lengkap" />
        <label class="" for="birthday"><p class="font-weight-light">Tanggal Lahir</p></label>
     <div class="container">
       <div class="row">

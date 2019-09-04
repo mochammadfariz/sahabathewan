@@ -58,5 +58,8 @@ Route::get('/daftar', function () {
 Route::get('/automatch', function () {
     return view('modul.automatch.automatch');
 });
+Route::get('/indexautomatch', function () {
+    return view('modul.automatch.index');
+});
 
 

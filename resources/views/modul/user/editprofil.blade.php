@@ -37,12 +37,12 @@
                     <div class="mt-2">
                       <button class="btn btn-primary" type="button">
                         <i class="fa fa-fw fa-camera"></i>
-                        <span>Change Photo</span>
+                        <span>Ubah foto</span>
                       </button>
                     </div>
                   </div>
                   <div class="text-center text-sm-right">
-                    <div class="text-muted"><small>Joined 09 Dec 2017</small></div>
+                    <div class="text-muted"><small>Bergabung sejak 09 Desember 2017</small></div>
                   </div>
                 </div>
               </div>
@@ -146,9 +146,9 @@
                 <div class="form-group">
             <label class="col-md-3 control-label"></label>
             <div class="col-md-8">
-              <input type="button" class="btn btn-primary" value="Save Changes">
+              <input type="button" class="btn btn-primary" value="Simpan">
               <span></span>
-              <input type="reset" class="btn btn-secondary" value="Cancel">
+              <input type="reset" class="btn btn-secondary" value="Kembali">
             </div>
           </div>
 

@@ -164,8 +164,8 @@
 		<article class="col-sm-6">
 				<h4 class="title"> Acara perkumpulan pecinta anjing Siberian Husky  </h4>
 				<div class="rating-wrap  mb-2">
-					<div class="label-rating">132 comment</div>
-					<div class="label-rating">154 orders </div>
+					<div class="label-rating">132 tersisa</div>
+					<div class="label-rating">154 terjual </div>
 				</div> <!-- rating-wrap.// -->
 				<p> Lorem ipsum dolor sit amet, consectetuer adipiscing elit, Lorem ipsum dolor sit amet, consectetuer adipiscing elit, Ut wisi enim ad minim veniam </p>
 				<dl class="dlist-align">
@@ -180,6 +180,10 @@
 				<dl class="dlist-align">
 				  <dt>Waktu</dt>
 				  <dd>14.00-Selesai</dd>
+				</dl>  <!-- item-property-hor .// -->
+				<dl class="dlist-align">
+				  <dt>Komunitas</dt>
+				  <dd>Anjing</dd>
 				</dl>  <!-- item-property-hor .// -->
 			
 		</article> <!-- col.// -->
@@ -214,8 +218,8 @@
 		<article class="col-sm-6">
 				<h4 class="title"> Acara Perkumpulan Pecinta Anjing </h4>
 				<div class="rating-wrap mb-2">
-					<div class="label-rating">121 cooment</div>
-					<div class="label-rating">54 orders </div>
+					<div class="label-rating">121 tersisa</div>
+					<div class="label-rating">54 terjual </div>
 				</div> <!-- rating-wrap.// -->
 				<p> Lorem ipsum dolor sit amet, consectetuer adipiscing elit, Lorem ipsum dolor sit amet, consectetuer adipiscing elit, Ut wisi enim ad minim veniam </p>
 
@@ -232,6 +236,11 @@
 				<dl class="dlist-align">
 				  <dt>Waktu</dt>
 				  <dd>13.00-18.00</dd>
+				</dl>  <!-- item-property-hor .// -->
+
+				<dl class="dlist-align">
+				  <dt>Komunitas</dt>
+				  <dd>Semua Hewan</dd>
 				</dl>  <!-- item-property-hor .// -->
 		</article> <!-- col.// -->
 		<aside class="col-sm-3 border-left">

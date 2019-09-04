@@ -12,8 +12,8 @@
                     <div class="work-experience pt-2">
                           <div class="section">
                         <h3>@mochammadfarizz</h3>
-                       <button class="btn btn-outline-info btn-success"><span class="fa fa-user"></span> 332 <b>Following </b></button>
-                      <button class="btn btn-outline-info btn-success"><span class="fa fa-user"></span> 114 <b>Followers</b> </button>
+                       <button class="btn btn-outline-info btn-success"><span class="fa fa-user"></span> 332 <b>Mengikuti </b></button>
+                      <button class="btn btn-outline-info btn-success"><span class="fa fa-user"></span> 114 <b>diikuti</b> </button>
                        
                     </div>
                        
@@ -54,18 +54,19 @@
                 <h2 class="font-weight-bold m-0">
                     Mochammad Fariz Syah Lazuardy
                 </h2>
-                <address class="m-0 pt-2 pl-0 pl-md-4 font-weight-light text-secondary">
-                    <i class="fa fa-map-marker"></i>
-                    Depok, Jakarta Selatan
-                </address>
+           
             </div>
+                 <address class="m-0 pt-2 pl-0 pl-md-4 font-weight-light text-secondary">
+                    <i class="fa fa-map-marker"></i>
+                     Depok, Jakarta Selatan
+                </address>
             <p class="h5 text-primary mt-2 d-block font-weight-light">
               
             </p>
             <p class="lead mt-4">Saya suka dengan anjing doberman dan kucing persia. Teknik Informatika UG 16 . Sedang mencari teman main untuk doberman saya agar melatih kemampuan bersosialisasi dengan anjing lainnya. </p>
            
             <section class="d-flex mt-5">
-                <a href="/editprofil" class="btn btn-success"> <i class="fas fa-cog"></i> Edit Profile</a>
+                <a href="/editprofil" class="btn btn-success"> <i class="fas fa-cog"></i> Ubah Profil</a>
               
                 
             </section>
@@ -78,12 +79,12 @@
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">
-                            Following  
+                            Mengikuti  
                         </a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="false">
-                           Followers
+                           diikuti
                         </a>
                     </li>
                    
@@ -97,49 +98,49 @@
           
        <section class="gallery-block grid-gallery">
             <div class="container">
-              <button style= ""type="button" class="btn btn-success btn-sm">Tambah Foto</button>
+              <button style= ""type="button" class="btn btn-success btn-sm" data-toggle="modal" data-target="#tambahfoto">Tambah Foto</button>
                 <div class="row">
                     <div class="col-4">
                         <a class="lightbox" href="asset/img/hewanku/anggora.jpg">
                             <img style="margin-top: 25px;width: 200px; height: 200px;object-fit: cover;" class="rounded img-fluid image scale-on-hover" src="asset/img/hewanku/anggora.jpg">
                         </a>
                         <button type="button" class="btn btn-danger btn-sm">  <i class="fas fa-trash"></i> Hapus</button>
-                          <button type="button" class="btn btn-warning btn-sm">  Edit</button>
+                          <button type="button" class="btn btn-warning btn-sm">  Ubah</button>
                     </div>
                     <div class="col-4">
                         <a class="lightbox" href="asset/img/hewanku/husky.jpg">
                             <img style="margin-top: 25px;width: 200px; height: 200px;object-fit: cover;" class="rounded img-fluid image scale-on-hover" src="asset/img/hewanku/husky.jpg">
                         </a>
                          <button type="button" class="btn btn-danger btn-sm">  <i class="fas fa-trash"></i> Hapus</button>
-                         <button type="button" class="btn btn-warning btn-sm" data-toggle="modal" data-target="#husky">  Edit</button>
+                         <button type="button" class="btn btn-warning btn-sm" data-toggle="modal" data-target="#husky">  Ubah</button>
                     </div>
                     <div class="col-4">
                         <a class="lightbox" href="asset/img/hewanku/kitten.jpg">
                             <img style="margin-top: 25px;width: 200px; height: 200px;object-fit: cover;" class="rounded img-fluid image scale-on-hover" src="asset/img/hewanku/kitten.jpg">
                         </a>
                          <button type="button" class="btn btn-danger btn-sm">  <i class="fas fa-trash"></i> Hapus</button>
-                           <button type="button" class="btn btn-warning btn-sm">  Edit</button>
+                           <button type="button" class="btn btn-warning btn-sm">  Ubah</button>
                     </div>
                     <div class="col-4">
                         <a class="lightbox" href="asset/img/hewanku/kucinglucu.jpg">
                             <img style="margin-top: 25px;width: 200px; height: 200px;object-fit: cover;" class="rounded img-fluid image scale-on-hover" src="asset/img/hewanku/kucinglucu.jpg">
                         </a>
                          <button type="button" class="btn btn-danger btn-sm">  <i class="fas fa-trash"></i> Hapus</button>
-                           <button type="button" class="btn btn-warning btn-sm">  Edit</button>
+                           <button type="button" class="btn btn-warning btn-sm">  Ubah</button>
                     </div>
                     <div class="col-4">
                         <a class="lightbox" href="asset/img/hewanku/kucinglucu2.jpg">
                             <img style="margin-top: 25px;width: 200px; height: 200px;object-fit: cover;" class="rounded img-fluid image scale-on-hover" src="asset/img/hewanku/kucinglucu2.jpg">
                         </a>
                          <button type="button" class="btn btn-danger btn-sm">  <i class="fas fa-trash"></i> Hapus</button>
-                           <button type="button" class="btn btn-warning btn-sm">  Edit</button>
+                           <button type="button" class="btn btn-warning btn-sm">  Ubah</button>
                     </div>
                     <div class="col-4">
                         <a class="lightbox" href="asset/img/hewanku/kucingsungapura.jpg">
                             <img style="margin-top: 25px;width: 200px; height: 200px;object-fit: cover;" class="rounded img-fluid image scale-on-hover" src="asset/img/hewanku/kucingsungapura.jpg">
                         </a>
                          <button type="button" class="btn btn-danger btn-sm">  <i class="fas fa-trash"></i> Hapus</button>
-                           <button type="button" class="btn btn-warning btn-sm">  Edit</button>
+                           <button type="button" class="btn btn-warning btn-sm">  Ubah</button>
                     </div>
                   
                 </div>
@@ -194,13 +195,13 @@
                         </div>
                         <div class="col-12 col-lg-4">
                             <h3 class="mb-0">20.7K</h3>
-                            <small>Followers</small>
-                            <button class="btn  btn-outline-primary"><span class="fa fa-check"></span> Following</button>
+                            <small>diikuti</small>
+                            <button class="btn  btn-outline-primary"><span class="fa fa-check"></span> Mengikuti</button>
                         </div>
                         <div class="col-12 col-lg-4">
                             <h3 class="mb-0">245</h3>
-                            <small>Following</small>
-                            <button class="btn btn-outline-info btn-block"><span class="fa fa-user"></span> View </button>
+                            <small>Mengikuti</small>
+                            <button class="btn btn-outline-info btn-block"><span class="fa fa-eye"></span> Detail </button>
                         </div>
                         
                         <!--/col-->
@@ -247,13 +248,13 @@
                         </div>
                         <div class="col-12 col-lg-4">
                             <h3 class="mb-0">1.4K</h3>
-                            <small>Followers</small>
-                            <button class="btn  btn-outline-primary"><span class="fa fa-check"></span> Following</button>
+                            <small>diikuti</small>
+                            <button class="btn  btn-outline-primary"><span class="fa fa-check"></span> Mengikuti</button>
                         </div>
                         <div class="col-12 col-lg-4">
                             <h3 class="mb-0">245</h3>
-                            <small>Following</small>
-                            <button class="btn btn-outline-info btn-block"><span class="fa fa-user"></span> View </button>
+                            <small>Mengikuti</small>
+                            <button class="btn btn-outline-info btn-block"><span class="fa fa-eye"></span> Detail </button>
                         </div>
                         
                         <!--/col-->
@@ -276,7 +277,7 @@
                     </div>
                     <!-- Akhir dari Tab Tentang Saya -->
 
-                    <!-- AWAL tab Following -->
+                    <!-- AWAL tab Mengikuti -->
                     <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
                         <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
 <div class="container profile-page">
@@ -293,7 +294,7 @@
                             <span class="job_post">Ui UX Designer</span>
                             <p>795 Folsom Ave, Suite 600 San Francisco, CADGE 94107</p>
                             <div>
-                                <button class="btn btn-primary btn-round">Following</button>
+                                <button class="btn btn-primary btn-round">Mengikuti</button>
                                 <button class="btn btn-light btn-round btn-simple">Detail</button>
                             </div>
                          
@@ -316,7 +317,7 @@
                             <span class="job_post">Ui UX Designer</span>
                             <p>795 Folsom Ave, Suite 600 San Francisco, CADGE 94107</p>
                             <div>
-                                <button class="btn btn-primary btn-round">Following</button>
+                                <button class="btn btn-primary btn-round">Mengikuti</button>
                                 <button class="btn btn-light btn-round btn-simple">Detail</button>
                             </div>
                          
@@ -339,7 +340,7 @@
                             <span class="job_post">Ui UX Designer</span>
                             <p>795 Folsom Ave, Suite 600 San Francisco, CADGE 94107</p>
                             <div>
-                                <button class="btn btn-primary btn-round">Following</button>
+                                <button class="btn btn-primary btn-round">Mengikuti</button>
                                 <button class="btn btn-light btn-round btn-simple">Detail</button>
                             </div>
                          
@@ -351,8 +352,8 @@
 	</div>
 </div>
                     </div>
-                    <!-- Akhir Tab FOllowing -->
-                    <!-- AWAL tab Followers -->
+                    <!-- Akhir Tab Mengikuti -->
+                    <!-- AWAL tab diikuti -->
                     <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
                     <div class="container profile-page">
     <div class="row">
@@ -368,7 +369,7 @@
                             <span class="job_post">Ui UX Designer</span>
                             <p>795 Folsom Ave, Suite 600 San Francisco, CADGE 94107</p>
                             <div>
-                                <button class="btn btn-primary btn-round">Following</button>
+                                <button class="btn btn-primary btn-round">Mengikuti</button>
                                 <button class="btn btn-light btn-round btn-simple">Detail</button>
                             </div>
                          
@@ -391,7 +392,7 @@
                             <span class="job_post">Ui UX Designer</span>
                             <p>795 Folsom Ave, Suite 600 San Francisco, CADGE 94107</p>
                             <div>
-                                <button class="btn btn-primary btn-round">Following</button>
+                                <button class="btn btn-primary btn-round">Mengikuti</button>
                                 <button class="btn btn-light btn-round btn-simple">Detail</button>
                             </div>
                          
@@ -426,16 +427,16 @@
 	</div>
 </div>
                     </div>
-                    <!-- AKHIR Tab Followers -->
+                    <!-- AKHIR Tab diikuti -->
                 </div>
             </section>
         </div>
     </div>
 </div>
 
-<!-- Modal -->
 
-<!-- Modal -->
+
+<!-- Modal Edit -->
 <div class="modal fade" id="husky" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
@@ -451,6 +452,10 @@
                     <label for="formGroupExampleInput">Nama Peliharaan </label>
                     <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Cody">
                 </div>
+                 <div class="form-group">
+                    <label for="exampleFormControlFile1">Unggah Foto</label>
+                    <input type="file" class="form-control-file" id="exampleFormControlFile1">
+                 </div>
                 <label class="my-1 mr-2" for="inlineFormCustomSelectPref">Kategori</label>
                     <select class="custom-select my-1 mr-sm-2" id="inlineFormCustomSelectPref">
                         <option selected>Anjing</option>
@@ -472,7 +477,67 @@
                     <label for="formGroupExampleInput">Lahir </label>
                     <input type="text" class="form-control" id="formGroupExampleInput" placeholder="DD-MM-YYYY">
                 </div>
-                 <label class="my-1 mr-2" for="inlineFormCustomSelectPref">Jenis</label>
+                 <label class="my-1 mr-2" for="inlineFormCustomSelectPref">Tingkat agresivitas</label>
+                    <select class="custom-select my-1 mr-sm-2" id="inlineFormCustomSelectPref">
+                        <option selected>Baik</option>
+                        <option value="1">Biasa</option>
+                        <option value="3">Sedikit Galak</option>
+                        <option value="1">Galak</option>
+                    </select>
+        </form>
+      </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Tutup</button>
+                    <button type="button" class="btn btn-primary">Simpan</button>
+                </div>
+    </div>
+  </div>
+</div>
+<!-- Akhir Modal Edit -->
+
+<!-- Awal Modal Tambah -->
+<!-- Modal -->
+<div class="modal fade" id="tambahfoto" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <form>
+                <div class="form-group">
+                    <label for="formGroupExampleInput">Nama Peliharaan </label>
+                    <input type="text" class="form-control" id="formGroupExampleInput" placeholder="">
+                </div>
+                 <div class="form-group">
+                    <label for="exampleFormControlFile1">Unggah Foto</label>
+                    <input type="file" class="form-control-file" id="exampleFormControlFile1">
+                 </div>
+                <label class="my-1 mr-2" for="inlineFormCustomSelectPref">Kategori</label>
+                    <select class="custom-select my-1 mr-sm-2" id="inlineFormCustomSelectPref">
+                        <option selected>Anjing</option>
+                        <option value="1">Kucing</option>
+                    </select>
+                <label class="my-1 mr-2" for="inlineFormCustomSelectPref">Jenis</label>
+                    <select class="custom-select my-1 mr-sm-2" id="inlineFormCustomSelectPref">
+                        <option selected>Siberian Husky</option>
+                        <option value="1">Pitbull</option>
+                        <option value="2">Rottweiler</option>
+                        <option value="3">Doberman</option>
+                    </select>
+                <label class="my-1 mr-2" for="inlineFormCustomSelectPref">Jenis Kelamin</label>
+                    <select class="custom-select my-1 mr-sm-2" id="inlineFormCustomSelectPref">
+                        <option selected>Laki-Laki</option>
+                         <option selected>Perempuan</option>
+                    </select>
+                <div class="form-group">
+                    <label for="formGroupExampleInput">Lahir </label>
+                    <input type="text" class="form-control" id="formGroupExampleInput" placeholder="DD-MM-YYYY">
+                </div>
+                 <label class="my-1 mr-2" for="inlineFormCustomSelectPref">Tingkat agresivitas</label>
                     <select class="custom-select my-1 mr-sm-2" id="inlineFormCustomSelectPref">
                         <option selected>Baik</option>
                         <option value="1">Biasa</option>
@@ -482,10 +547,11 @@
         </form>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Tutup</button>
-        <button type="button" class="btn btn-primary">Simpan</button>
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
       </div>
     </div>
   </div>
 </div>
+<!-- Akhir Modal Tambah -->
 @endsection
