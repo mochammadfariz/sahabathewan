@@ -5,13 +5,13 @@
 <div class="container py-4 my-2">
     <div class="row">
         <div class="col-md-4 pr-md-5">
-            <img class="w-100 rounded border" src="asset/img/user/rafif.PNG" />
+            <img  style=""class="img-fluid" alt="Responsive image" src="asset/img/user/fariz.jpg" />
             <div class="pt-4 mt-2">
                 <section class="mb-4 pb-1">
                    
                     <div class="work-experience pt-2">
                           <div class="section">
-                        <h3>@Rafffvn</h3>
+                        <h3>@mochammadfarizz</h3>
                        <button class="btn btn-outline-info btn-success"><span class="fa fa-user"></span> 332 <b>Following </b></button>
                       <button class="btn btn-outline-info btn-success"><span class="fa fa-user"></span> 114 <b>Followers</b> </button>
                        
@@ -33,37 +33,40 @@
                         </div>
                        
                     </div>
+
+                     <div class="skills pt-1 row">
+                        <div class="col-4 mb-2">
+                            <div class="chart" data-percent="95" data-scale-color="#fff"><span class="badge badge-pill badge-success">Siberian Husky</span></div>
+                        </div>
+                        <div class="col-4 mb-2">
+                            <div class="chart" data-percent="85" data-scale-color="#fff"><span class="badge badge-pill badge-success">Pitbull</span></div>
+                        </div>
+                        <div class="col-4 mb-2">
+                            <div class="chart" data-percent="90" data-scale-color="#fff"><span class="badge badge-pill badge-success">Doberman</span></div>
+                        </div>
+                       
+                    </div>
                 </section>
             </div>
         </div>
         <div class="col-md-8">
             <div class="d-flex align-items-center">
                 <h2 class="font-weight-bold m-0">
-                    Rafif Favian
+                    Mochammad Fariz Syah Lazuardy
                 </h2>
                 <address class="m-0 pt-2 pl-0 pl-md-4 font-weight-light text-secondary">
                     <i class="fa fa-map-marker"></i>
-                    Jakarta Timur, Indonesia
+                    Depok, Jakarta Selatan
                 </address>
             </div>
             <p class="h5 text-primary mt-2 d-block font-weight-light">
               
             </p>
-            <p class="lead mt-4">Pecinta Kucing Anggora. Teknik Informatika UG 16 . Sedang mencari kucing lucu untuk dipelihara siapapun bisa contact saya. Work Hard Pray Hard </p>
+            <p class="lead mt-4">Saya suka dengan anjing doberman dan kucing persia. Teknik Informatika UG 16 . Sedang mencari teman main untuk doberman saya agar melatih kemampuan bersosialisasi dengan anjing lainnya. </p>
            
             <section class="d-flex mt-5">
-                <button class="btn btn-light bg-transparent mr-3 mb-3">
-                    <i class="fa fa-comments"></i>
-                   Kirim Pesan
-                </button>
-                <button class="btn btn-danger  mr-3 mb-3">
-                    <i class="fa fa-warning"></i>
-                    Laporkan
-                </button>
-                <button class="btn btn-primary mb-3">
-                    <i class="fa fa-check"></i>
-                    Following
-                </button>
+                <a href="/editprofil" class="btn btn-success"> <i class="fas fa-cog"></i> Edit Profile</a>
+              
                 
             </section>
             <section class="mt-4">
@@ -88,49 +91,55 @@
                 <div class="tab-content py-4" id="myTabContent">
                     <div class="tab-pane py-3 fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
                         <h4 class="text-uppercase font-weight-bold text-success">
-                            Peliharaanku
+                            Peliharaanku  
                         </h4>
                        <!-- Konten Gallery Peliharaanku -->
-         
+          
        <section class="gallery-block grid-gallery">
             <div class="container">
-                
+              <button style= ""type="button" class="btn btn-success btn-sm">Tambah Foto</button>
                 <div class="row">
-                     <div class="col-4">
+                    <div class="col-4">
                         <a class="lightbox" href="asset/img/hewanku/anggora.jpg">
                             <img style="margin-top: 25px;width: 200px; height: 200px;object-fit: cover;" class="rounded img-fluid image scale-on-hover" src="asset/img/hewanku/anggora.jpg">
                         </a>
-                          <button type="button" class="btn btn-success btn-sm">  <i class="far fa-eye"></i> Detail</button>
+                        <button type="button" class="btn btn-danger btn-sm">  <i class="fas fa-trash"></i> Hapus</button>
+                          <button type="button" class="btn btn-warning btn-sm">  Edit</button>
                     </div>
                     <div class="col-4">
                         <a class="lightbox" href="asset/img/hewanku/husky.jpg">
                             <img style="margin-top: 25px;width: 200px; height: 200px;object-fit: cover;" class="rounded img-fluid image scale-on-hover" src="asset/img/hewanku/husky.jpg">
                         </a>
-                         <button type="button" class="btn btn-success btn-sm" data-toggle="modal" data-target="#husky">  <i class="far fa-eye"></i> Detail</button>
+                         <button type="button" class="btn btn-danger btn-sm">  <i class="fas fa-trash"></i> Hapus</button>
+                         <button type="button" class="btn btn-warning btn-sm" data-toggle="modal" data-target="#husky">  Edit</button>
                     </div>
                     <div class="col-4">
                         <a class="lightbox" href="asset/img/hewanku/kitten.jpg">
                             <img style="margin-top: 25px;width: 200px; height: 200px;object-fit: cover;" class="rounded img-fluid image scale-on-hover" src="asset/img/hewanku/kitten.jpg">
                         </a>
-                           <button type="button" class="btn btn-success btn-sm">  <i class="far fa-eye"></i> Detail</button>
+                         <button type="button" class="btn btn-danger btn-sm">  <i class="fas fa-trash"></i> Hapus</button>
+                           <button type="button" class="btn btn-warning btn-sm">  Edit</button>
                     </div>
                     <div class="col-4">
                         <a class="lightbox" href="asset/img/hewanku/kucinglucu.jpg">
                             <img style="margin-top: 25px;width: 200px; height: 200px;object-fit: cover;" class="rounded img-fluid image scale-on-hover" src="asset/img/hewanku/kucinglucu.jpg">
                         </a>
-                           <button type="button" class="btn btn-success btn-sm">  <i class="far fa-eye"></i> Detail</button>
+                         <button type="button" class="btn btn-danger btn-sm">  <i class="fas fa-trash"></i> Hapus</button>
+                           <button type="button" class="btn btn-warning btn-sm">  Edit</button>
                     </div>
                     <div class="col-4">
                         <a class="lightbox" href="asset/img/hewanku/kucinglucu2.jpg">
                             <img style="margin-top: 25px;width: 200px; height: 200px;object-fit: cover;" class="rounded img-fluid image scale-on-hover" src="asset/img/hewanku/kucinglucu2.jpg">
                         </a>
-                           <button type="button" class="btn btn-success btn-sm">  <i class="far fa-eye"></i> Detail</button>
+                         <button type="button" class="btn btn-danger btn-sm">  <i class="fas fa-trash"></i> Hapus</button>
+                           <button type="button" class="btn btn-warning btn-sm">  Edit</button>
                     </div>
                     <div class="col-4">
                         <a class="lightbox" href="asset/img/hewanku/kucingsungapura.jpg">
                             <img style="margin-top: 25px;width: 200px; height: 200px;object-fit: cover;" class="rounded img-fluid image scale-on-hover" src="asset/img/hewanku/kucingsungapura.jpg">
                         </a>
-                           <button type="button" class="btn btn-success btn-sm">  <i class="far fa-eye"></i> Detail</button>
+                         <button type="button" class="btn btn-danger btn-sm">  <i class="fas fa-trash"></i> Hapus</button>
+                           <button type="button" class="btn btn-warning btn-sm">  Edit</button>
                     </div>
                   
                 </div>
@@ -186,7 +195,7 @@
                         <div class="col-12 col-lg-4">
                             <h3 class="mb-0">20.7K</h3>
                             <small>Followers</small>
-                            <button class="btn btn-block btn-outline-success"><span class="fa fa-plus-circle"></span> Follow</button>
+                            <button class="btn  btn-outline-primary"><span class="fa fa-check"></span> Following</button>
                         </div>
                         <div class="col-12 col-lg-4">
                             <h3 class="mb-0">245</h3>
@@ -423,6 +432,9 @@
         </div>
     </div>
 </div>
+
+<!-- Modal -->
+
 <!-- Modal -->
 <div class="modal fade" id="husky" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog" role="document">
@@ -434,15 +446,44 @@
         </button>
       </div>
       <div class="modal-body">
-        <b>Kategori :</b> <p>Anjing <i style="color:orange;" class="fas fa-dog"></i></p>
-        <b>Jenis :</b> <p>Siberian Husky</p>
-        <b>Jenis Kelamin :</b> <p>Laki-laki <i style="color:blue;"class="fas fa-mars"></i></p> 
-        <b>Lahir :</b> <p>14 Oktober 2018</p>
-        <b>Tingkat agresivitas:</b> <span class="badge badge-pill badge-danger">Galak</span>
+        <form>
+                <div class="form-group">
+                    <label for="formGroupExampleInput">Nama Peliharaan </label>
+                    <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Cody">
+                </div>
+                <label class="my-1 mr-2" for="inlineFormCustomSelectPref">Kategori</label>
+                    <select class="custom-select my-1 mr-sm-2" id="inlineFormCustomSelectPref">
+                        <option selected>Anjing</option>
+                        <option value="1">Kucing</option>
+                    </select>
+                <label class="my-1 mr-2" for="inlineFormCustomSelectPref">Jenis</label>
+                    <select class="custom-select my-1 mr-sm-2" id="inlineFormCustomSelectPref">
+                        <option selected>Siberian Husky</option>
+                        <option value="1">Pitbull</option>
+                        <option value="2">Rottweiler</option>
+                        <option value="3">Doberman</option>
+                    </select>
+                <label class="my-1 mr-2" for="inlineFormCustomSelectPref">Jenis Kelamin</label>
+                    <select class="custom-select my-1 mr-sm-2" id="inlineFormCustomSelectPref">
+                        <option selected>Laki-Laki</option>
+                         <option selected>Perempuan</option>
+                    </select>
+                <div class="form-group">
+                    <label for="formGroupExampleInput">Lahir </label>
+                    <input type="text" class="form-control" id="formGroupExampleInput" placeholder="DD-MM-YYYY">
+                </div>
+                 <label class="my-1 mr-2" for="inlineFormCustomSelectPref">Jenis</label>
+                    <select class="custom-select my-1 mr-sm-2" id="inlineFormCustomSelectPref">
+                        <option selected>Baik</option>
+                        <option value="1">Biasa</option>
+                        <option value="3">Sedikit Galak</option>
+                        <option value="1">Galak</option>
+                    </select>
+        </form>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Tutup</button>
-      
+        <button type="button" class="btn btn-primary">Simpan</button>
       </div>
     </div>
   </div>

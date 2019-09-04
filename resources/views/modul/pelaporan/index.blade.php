@@ -2,10 +2,10 @@
 @section('content')
 <div class="container">
   <div class="row">
-    <div class="col-md-7">
-      <img src="asset/img/logo/dog.png" alt="">
+    <div class="col-md-6 ">
+      <img height="300px" width="auto"class="mt-5" src="asset/img/desainpelaporan/komunitas2.png" alt="">
     </div>
-    <div class="col-md-5">
+    <div class="col-md-6 ">
      <h4 style="margin-top:60px;"class="font-weight-bold" style="font-family:Segoe UI Symbol " style="padding-top"> Hentikan Kekerasan Hewan Sekarang Juga!</h4>
      <hr style="height:3px;border:none;color:#333;background-color:#333;">
      <p class="font-weight-light">Sahabat Hewan merupakan platform untuk pecinta hewan yang melindungi hak asasi hewan. Sesuatu seperti penyiksaan hewan dan keadaan hewan terlantar harap laporkan pada tim kami. Peduli terhadap hewan  yang membutuhkan pertolongan merupakan suatu sikap kepedulian anda terhadap hewan. Anda dapat membantu kami dengan mengisi form dibawah ini atau melakukan laporan pada social media kami di : </p>
@@ -21,7 +21,7 @@
   
   
   <div class="row">
-  <div class="col-md-8 offset-2" style="margin-top:160px;">
+  <div class="col-md-12 " style="margin-top:160px;">
   <h4 class="font-weight-bold text-center" >Form Laporan</h4>
    <hr style="height:3px;border:none;color:#333;background-color:#666;" width="200">
    <br>
