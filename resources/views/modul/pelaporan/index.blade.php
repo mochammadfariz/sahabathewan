@@ -23,7 +23,8 @@
   <div class="row">
   <div class="col-md-12 " style="margin-top:160px;">
   <h4 class="font-weight-bold text-center" >Form Laporan</h4>
-   <hr style="height:3px;border:none;color:#333;background-color:#666;" width="200">
+  <center><hr style="height:3px;border:none;color:#333;background-color:#666;" width="200"></center>
+   
    <br>
   <form>
   <div class="form-row">

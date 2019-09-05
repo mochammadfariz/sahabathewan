@@ -23,9 +23,16 @@
     <link href="css/automatch.css" rel="stylesheet" type="text/css"/>
    
     <!-- link untuk grid gallery hewanku -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" >
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.css"  />
         <link rel="stylesheet" href="grid-gallery.css">
+
+        <!-- plusminus tiket -->
+         <link href="css/plusminus.css" rel="stylesheet" type="text/css"/>
+          <script data-require="jquery@3.1.1" data-semver="3.1.1" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"><script>
+        <script src="script.js"></script>
+
+     
 
     <title>Hello, world!</title>
 </head>

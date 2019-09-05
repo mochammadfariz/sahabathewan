@@ -5,7 +5,7 @@
 <div class="row align-items-center">
 	<div class="col-lg-3 col-sm-4">
 	<div class="brand-wrap">
-		<img width="70" height="70" class="logo" src="asset/img/logo/dog.png">
+	
 	</div> <!-- brand-wrap.// -->
 	</div>
 	<div class="col-lg-6 col-sm-8">
@@ -171,7 +171,7 @@
 			
 				<br>
 				<p>
-					<a href="#" class="btn btn-primary"> Gabung </a>
+					<a href="#" class="btn btn-primary" data-toggle="modal" data-target="#gabung"> Gabung </a>
 					<a href="#" class="btn btn-secondary"> Detail  </a>
 				</p>
 				<a href="#"><i class="fa fa-heart"></i> Beri Rating</a>
@@ -244,5 +244,42 @@
 </div> <!-- container .//  -->
 </section>
 
-
+<!-- Modal Gabung -->
+<!-- Modal -->
+<div class="modal fade" id="gabung" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Form gabung komunitas</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <form>
+  <div class="form-group">
+    <label for="exampleFormControlInput1">Email address</label>
+    <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+  </div>
+  <div class="form-group">
+    <label for="inputAddress">Nomor Telepon</label>
+    <input type="text" class="form-control" id="inputAddress" placeholder="1234 Main St">
+  </div>
+   <div class="form-group">
+    <label for="exampleFormControlTextarea1">Alasan ingin bergabung dengan komunitas ini</label>
+    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+  </div>
+  <div class="form-group">
+    <label for="exampleFormControlTextarea1">Alamat Lengkap</label>
+    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+  </div>
+</form>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
+      </div>
+    </div>
+  </div>
+</div>
 @endsection

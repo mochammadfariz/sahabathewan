@@ -61,5 +61,7 @@ Route::get('/automatch', function () {
 Route::get('/indexautomatch', function () {
     return view('modul.automatch.index');
 });
-
+Route::get('/belitiket', function () {
+    return view('modul.event.belitiket');
+});
 

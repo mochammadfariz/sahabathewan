@@ -5,7 +5,7 @@
 <div class="row align-items-center">
 	<div class="col-lg-3 col-sm-4">
 	<div class="brand-wrap">
-		<img width="70" height="70" class="logo" src="asset/img/logo/dog.png">
+	
 		
 	</div> <!-- brand-wrap.// -->
 	</div>
@@ -196,11 +196,11 @@
 				<p class="text-success">Canine Bowl </p>
 				<p class="text-success">T shirt for owner</p>
 				<p class="text-success">3 Interactive Ball Thrower for Dogs</p>
-				<p>For more click Details >></p>
+				
 				
 				<br>
 				<p>
-					<a href="#" class="btn btn-primary"> Buy now </a>
+					<a href="/belitiket" class="btn btn-primary" > Beli </a>
 					<a href="#" class="btn btn-secondary"> Details  </a>
 				</p>
 			</div> <!-- action-wrap.// -->
@@ -246,13 +246,13 @@
 		<aside class="col-sm-3 border-left">
 			<div class="action-wrap">
 				<div class="price-wrap h4">
-					<span class="price"> Free </span>	
+					<span class="price"> Gratis </span>	
 					
 				</div> <!-- info-price-detail // -->
 				
 				<br>
 				<p>
-					<a href="#" class="btn btn-primary"> Buy now </a>
+					<a href="#" class="btn btn-primary"> Beli </a>
 					<a href="#" class="btn btn-secondary"> Details  </a>
 				</p>
 			
@@ -282,4 +282,10 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 </div><!-- container // -->
 </section>
 <!-- ========================= SECTION  END// ========================= -->
+
+
+
+
+
+
 @endsection
