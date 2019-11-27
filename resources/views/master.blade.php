@@ -21,7 +21,16 @@
 
     <!-- TAMBAHAN css untuk automatch -->
     <link href="css/automatch.css" rel="stylesheet" type="text/css"/>
-   
+
+    <!-- Tambahan css untuk pelaporan komunitas -->
+   <link rel="stylesheet" type="text/css" href="css/daftar.css">
+
+   <!-- css untuk diagram pie -->
+    <link rel="stylesheet" type="text/css" href="css/diagram.css">
+
+   <!-- Tambahan css untuk pelaporan komunitas -->
+   <link rel="stylesheet" type="text/css" href="css/laporkomunitas.css">
+
     <!-- link untuk grid gallery hewanku -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" >
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.css"  />

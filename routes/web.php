@@ -64,4 +64,7 @@ Route::get('/indexautomatch', function () {
 Route::get('/belitiket', function () {
     return view('modul.event.belitiket');
 });
+Route::get('/detailkomunitas', function () {
+    return view('modul.komunitas.detailkomunitas');
+});
 
